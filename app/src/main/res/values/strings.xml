@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Myspot</string>
+    <string name="mahakaal_chats">Myspot</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="enter_mobile_number">Enter mobile Number</string>
+    <string name="buttText">send otp</string>
+    <string name="phone">Phone</string>
+    <string name="sentotp">Enter OTP sent on your phone</string>
+    <string name="otp">OTP</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="username">username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

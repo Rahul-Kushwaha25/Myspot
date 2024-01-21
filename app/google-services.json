@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564805934130",
+    "project_id": "myspot-4be81",
+    "storage_bucket": "myspot-4be81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564805934130:android:9db3594359d52af30a702b",
+        "android_client_info": {
+          "package_name": "com.rahul.titan.myspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoodyAMj_LIABD9zW7-tu-KsJiOswFGdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
